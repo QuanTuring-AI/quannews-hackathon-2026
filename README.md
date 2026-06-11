@@ -8,7 +8,7 @@
 
 ## Problem
 
-Enterprise daily briefing automation is fragmented and expensive: marketing teams manually curate news from multiple sources, brand teams hand-craft visual covers, distribution teams manage 5+ channels. A single junior staffer dedicated to daily news distillation costs NT$ 600-900K/year — prohibitive for SMBs. Existing enterprise tools (Brandwatch, Mention) charge USD $30-100K/year and lack vertical specificity.
+Enterprise daily briefing automation is fragmented and expensive: marketing teams manually curate news from multiple sources, brand teams hand-craft visual covers, distribution teams manage 5+ channels. A single junior staffer dedicated to daily news distillation costs USD 20-30K/year — prohibitive for SMBs. Existing enterprise tools (Brandwatch, Mention) charge USD 30-100K/year and lack vertical specificity.
 
 Millions of SMBs and mid-market enterprises need a daily-content automation pipeline that turns any PDF or RSS source into a multi-modal briefing delivered to LINE / IG / Email — without expanding their team.
 
