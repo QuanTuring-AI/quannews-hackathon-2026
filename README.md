@@ -1,6 +1,6 @@
 # QuanNews · Daily-News-Pipeline + Cue Bot
 
-> Production-running GCP-native automation pipeline turning PDF uploads or RSS feeds into daily multi-modal briefings — delivered via LINE Messaging API and queryable via Vertex AI RAG chatbot.
+> **v3.1.0 GA · 6+ months production · paying VIP subscribers.** GCP-native automation pipeline turning PDF uploads or RSS feeds into daily multi-modal briefings — delivered via LINE Messaging API and queryable via Vertex AI RAG chatbot.
 
 **Submission for [Google for Startups AI Agents Challenge 2026](https://googleforstartups.devpost.com/) · Track 3: Refactor for Google Cloud Marketplace & Gemini Enterprise · Region: APAC**
 
@@ -33,6 +33,16 @@ Daily-News-Pipeline is a production-running, GCP-native auto-pipeline that turns
 
 **Orchestration, not invention** — combining 5 GCP services into a production-grade daily briefing pipeline with single founder bandwidth.
 
+## Business Model
+
+QuanNews ships as an enterprise SaaS:
+
+- **Enterprise tier**: USD 33K per organization per year · unlimited subscribers · 1 channel included · additional channels +30%
+- **Setup**: USD 5K (one-time)
+- **ROI**: Customers replace USD 100-300K/year in vendor tools (Brandwatch, Mention) and dedicated content teams — delivering **3 to 9x ROI**
+
+Production paying VIP subscribers in Taiwan since v3.1.0 GA release (6+ months).
+
 ## Branding Note
 
 This codebase is **production-deployed** to Taiwan-based Chinese-speaking consumers via a LINE bot. The English-language brand for international submission is **QuanNews · Cue Bot**; the equivalent Chinese-language consumer brand is **量識Q報 · 電路貓 (Circuit Cat persona)**. Both names refer to the same product. Code strings retain the production Chinese brand for authenticity of the v3.1.0 GA snapshot — what judges see in the live LINE bot demo matches what's in this repository.
@@ -48,7 +58,7 @@ This codebase is **production-deployed** to Taiwan-based Chinese-speaking consum
 - AI Models: Vertex AI Gemini 2.5 Flash + Imagen 4
 - Storage: Google Drive + Sheets (knowledge base)
 - Distribution: LINE Messaging API
-- Future Marketplace SaaS path (planned): Cloud Run + Firestore + Marketplace SaaS Webhook + BigQuery
+- **Track 3 Marketplace path**: Q4 2026 Service Registration delivery · 2027 H2 Marketplace listing (Cloud Run + Firestore + Marketplace SaaS Webhook + BigQuery refactor)
 
 ## Setup
 
