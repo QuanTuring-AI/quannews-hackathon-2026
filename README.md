@@ -1,5 +1,11 @@
 # QuanNews · Daily-News-Pipeline + Cue Bot
 
+[![Status](https://img.shields.io/badge/status-v3.1.0_GA-brightgreen?style=flat-square)](https://github.com/QuanTuring-AI/quannews-hackathon-2026)
+[![Built on](https://img.shields.io/badge/built_on-Google_Cloud-4285F4?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
+[![Gemini](https://img.shields.io/badge/AI-Vertex_AI_Gemini_2.5_Flash-FF6F00?style=flat-square&logo=google)](https://cloud.google.com/vertex-ai)
+[![License](https://img.shields.io/badge/license-Apache_2.0-blue?style=flat-square)](LICENSE)
+[![Submission](https://img.shields.io/badge/Google_for_Startups-AI_Agents_Challenge_2026-EA4335?style=flat-square&logo=google)](https://googleforstartups.devpost.com/)
+
 > **v3.1.0 GA · 6+ months production · paying VIP subscribers.** GCP-native automation pipeline turning PDF uploads or RSS feeds into daily multi-modal briefings — delivered via LINE Messaging API and queryable via Vertex AI RAG chatbot.
 
 **Submission for [Google for Startups AI Agents Challenge 2026](https://googleforstartups.devpost.com/) · Track 3: Refactor for Google Cloud Marketplace & Gemini Enterprise · Region: APAC**
