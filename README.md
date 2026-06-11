@@ -33,6 +33,10 @@ Daily-News-Pipeline is a production-running, GCP-native auto-pipeline that turns
 
 **Orchestration, not invention** — combining 5 GCP services into a production-grade daily briefing pipeline with single founder bandwidth.
 
+## Branding Note
+
+This codebase is **production-deployed** to Taiwan-based Chinese-speaking consumers via a LINE bot. The English-language brand for international submission is **QuanNews · Cue Bot**; the equivalent Chinese-language consumer brand is **量識Q報 · 電路貓 (Circuit Cat persona)**. Both names refer to the same product. Code strings retain the production Chinese brand for authenticity of the v3.1.0 GA snapshot — what judges see in the live LINE bot demo matches what's in this repository.
+
 ## Live Demo
 
 - **LINE Bot**: Free use for QuanNews — see Devpost submission for LINE Add Friend link
